@@ -1,0 +1,10 @@
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\bin\Debug\Dice_Roller.exe.config
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\bin\Debug\Dice_Roller.exe
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\bin\Debug\Dice_Roller.pdb
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.csproj.AssemblyReference.cache
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.Form1.resources
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.Properties.Resources.resources
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.csproj.GenerateResource.cache
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.csproj.CoreCompileInputs.cache
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.exe
+C:\Users\m3rt1\source\repos\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.pdb
